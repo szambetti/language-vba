@@ -1,23 +1,24 @@
 {
-  "name": "language-vb",
-  "main": "./lib/language-vb",
+  "name": "language-vba",
+  "main": "./lib/language-vba",
   "version": "0.1.0-pre1",
-  "description": "Syntax highlighting for VB.net",
+  "description": "Syntax highlighting for VBA",
   "keywords": [
     "language",
     "visual basic",
     "vb",
     "visualbasic",
-    "vb.net"
+    "vb.net",
+    "vba"
   ],
   "author": {
-    "name": "Gorea235"
+    "name": "Jonnokc"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gorea235/language-vb"
+    "url": "https://github.com/Gorea235/language-vba"
   },
-  "homepage": "https://github.com/Gorea235/language-vb",
+  "homepage": "https://github.com/Gorea235/language-vba",
   "license": "GNU GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
