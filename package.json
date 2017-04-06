@@ -1,7 +1,7 @@
 {
   "name": "language-vba",
   "main": "./lib/language-vba",
-  "version": "0.1.0-pre1",
+  "version": "0.1.0",
   "description": "Syntax highlighting for VBA",
   "keywords": [
     "language",
