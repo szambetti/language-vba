@@ -1,6 +1,9 @@
 comment: "Originally converted from the textmate ASP.VB.Net bundle. Adjusted to support VBA"
 fileTypes: [
-  "vba"
+  "vba",
+  "vb",
+  "VB.NET",
+  "vbscript"
 ]
 name: "VBA"
 patterns: [
