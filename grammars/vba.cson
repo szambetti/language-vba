@@ -209,4 +209,4 @@ repository:
         include: "source.asp.vb.net"
       }
     ]
-scopeName: "source.asp.vb.net"
+scopeName: "source.vba"
