@@ -1,4 +1,4 @@
-comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies. Adjusted to support VBA"
+comment: "Originally converted from the textmate ASP.VB.Net bundle. Adjusted to support VBA"
 fileTypes: [
   "vba"
 ]
@@ -209,4 +209,4 @@ repository:
         include: "source.asp.vb.net"
       }
     ]
-scopeName: "source.vba"
+scopeName: "source.asp.vb.net"
