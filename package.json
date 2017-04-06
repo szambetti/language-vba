@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gorea235/language-vba"
+    "url": "https://github.com/Jonnokc/language-vba"
   },
-  "homepage": "https://github.com/Gorea235/language-vba",
+  "homepage": "https://github.com/Jonnokc/language-vba",
   "license": "GNU GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "readme": "Visual Basic highlighting for Atom",
+  "readme": "Visual Basic Applications highlighting for Atom",
   "readmeFilename": "README.md",
   "dependencies": {}
 }
