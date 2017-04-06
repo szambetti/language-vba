@@ -1,4 +1,4 @@
-comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies. Adjusted to also include VBA"
+comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies. Adjusted to support VBA"
 fileTypes: [
   "vba"
 ]
