@@ -1,8 +1,8 @@
-comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies."
+comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies. Adjusted to also include VBA"
 fileTypes: [
-  "vb"
+  "vba"
 ]
-name: "VB.NET"
+name: "VBA"
 patterns: [
   {
     match: "\\n"
