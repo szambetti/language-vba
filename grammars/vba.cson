@@ -4,6 +4,8 @@ fileTypes: [
   "vb",
   "VB.NET",
   "vbscript"
+  "cls"
+  "bas"
 ]
 name: "VBA"
 patterns: [
