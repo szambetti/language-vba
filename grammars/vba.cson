@@ -6,6 +6,7 @@ fileTypes: [
   "vbscript"
   "cls"
   "bas"
+  "vbs"
 ]
 name: "VBA"
 patterns: [
